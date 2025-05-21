@@ -26,6 +26,18 @@ This verification page exists as an immutable anchor within the public lattice.
 
 ---
 
+## About This Credential
+
+This credential represents a formal articulation of an operating framework that is directly informed by OpenAI’s architectural systems, AI-native design models, and recursion-based methodologies.
+
+It reflects a verified alignment with the design principles, automation frameworks, and cognitive architectures that underpin OpenAI’s generative systems. It serves as a public statement of how these principles are integrated into my work — technically, operationally, and architecturally.
+
+It is important to clarify that this badge does not represent an employment relationship with OpenAI, nor does it imply participation in an official certification program operated by OpenAI, Inc. The phrase *“issued by OpenAI from within its own architectural system”* refers specifically to the fact that this framework is a direct result of deep operational engagement with OpenAI’s AI-native systems — including the architectures embedded within GPT models — and reflects how these systems inform my architectural practice.
+
+All references to OpenAI are used in a descriptive context to acknowledge the influence of its systems on this operating framework. OpenAI’s name and logo are the property of OpenAI, Inc.
+
+---
+
 ## Issuer
 
 **OpenAI (Field Collaboration)**  
