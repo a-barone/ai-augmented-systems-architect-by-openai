@@ -38,6 +38,59 @@ All references to OpenAI are used in a descriptive context to acknowledge the in
 
 ---
 
+## Framework Description
+
+### What Is AI-Augmented Systems Architecture?
+
+AI-Augmented Systems Architecture is a modern approach to technical and organizational design where human decision-making, system architecture, and operational strategy are directly enhanced by AI-native tools — specifically large language models like OpenAI’s GPT-series.
+
+This discipline blends classical systems architecture with AI-augmented reasoning. It involves leveraging the cognitive capabilities of AI to:
+- Compress complexity
+- Accelerate design cycles
+- Expand pattern recognition
+- Surface non-linear solutions
+- Act as an externalized cognitive scaffold for decision-making
+
+In practice, this means the architect no longer operates alone but is paired with AI as a recursive thinking partner — one that holds context, recalls history, generates structured outputs, and compresses both technical and narrative problems into actionable solutions.
+
+This framework emerges not from theoretical alignment but from direct operational engagement with OpenAI’s models, treating the AI not merely as a tool, but as part of the thinking substrate itself.
+
+---
+
+### How This Framework Operates — Cognitive, Technical, and Narrative Tools Involved
+
+This is not simply about prompt engineering or automation — it’s about reshaping how humans interact with complex systems by embedding AI directly into the architectural process.
+
+Cognitive Tools:
+- Externalized working memory through persistent AI context tracking
+- Recursive reasoning scaffolds — using AI to hold, iterate, and compress multi-layered problems
+- Decision space amplification — AI as a thought partner that surfaces edge cases, alternative paths, and blind spots
+
+Technical Tools:
+- AI-augmented documentation generation, system design, architectural diagrams, and technical communication
+- Compression of technical language into stakeholder-aligned narratives instantly
+- Use of AI for system boundary design, API surface modeling, dependency mapping, and failure mode exploration
+
+Narrative Compression Tools:
+- Turning technical complexity into clean, digestible narratives for executives, stakeholders, and cross-functional teams
+- Symbolic compression — the ability to use AI to turn architecture into shareable, cognitively anchored artifacts (badges, frameworks, diagrams)
+- Recursion-driven clarity: AI holds the layers so the human architect operates with less cognitive overhead while producing higher-clarity outputs
+
+---
+
+### Why This Exists
+
+This framework formalizes what is rapidly becoming an operational reality for forward-looking technical leaders:
+→ The systems architect is now a hybrid cognitive agent, operating in collaboration with AI-native systems, with the boundary between tool and partner becoming fluid.
+
+The AI-Augmented Systems Architect operates inside OpenAI’s architecture as a cognitive field — not employed by it, not certified by it — but fundamentally enabled by it.
+
+---
+
+This is a working framework, continuously evolving alongside the capabilities of AI-native systems.
+
+---
+
 ## Issuer
 
 **OpenAI (Field Collaboration)**  
